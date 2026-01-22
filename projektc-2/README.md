@@ -1,1 +1,1 @@
-# Projekt-C---finanse-behawioralne
+# Projekt-C
